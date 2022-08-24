@@ -1,5 +1,5 @@
 # Machine learning project with Python :snake:
- Heart disease prediction machine learning model. :man_health_worker: :heartbeat:
+## Heart disease prediction machine learning model. :man_health_worker: :heartbeat:
 
 :exclamation: For more information or details of each project, please contact me! nico.marquez@hotmail.com :email:
  
@@ -13,12 +13,18 @@ https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Execu
 
 **2) Now you are ready to take a look at the document with the code. Here the code is accompanied by a good Storytelling.** :speech_balloon:
 
-Metal fairing part bracket & PROTECTEUR MODULE ALIMENTATION UREEA- Renautl Master project:
-
-![](Renault/1.jpg)
-![](Renault/2.jpg)
-![](Renault/3.jpg)
-![](Renault/4.jpg)
+Here you can find all the steps of a Machine learning project:\
+Please, go to https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/ProyectoFinal.ipynb:
+\
+\
+![](Images/Imagen7.JPG)
+******************************
+![](Images/Imagen8.JPG)
+******************************
+![](Images/Imagen9.JPG)
+******************************
+![](Images/Imagen10.JPG)
+******************************
 
 **3) As a freelancer I was hired by a group of Mechanical Engineers to design and calculate a retractable tribune to apply it in real life. 
  The difference between the Gabriel and Emanuel rostrum was an automated scissor system.**
