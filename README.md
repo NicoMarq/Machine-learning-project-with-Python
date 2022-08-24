@@ -9,15 +9,9 @@
 
 https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Executive%20presentation%20of%20the%20project.pptx
 
-![](Lasso%20S.A/Concret%20mixer/1.jpg)
-![](Machine-learning-project-with-Python/blob/main/Images/image1.JPG)
+![](Images/image1.JPG)
 
-Lawn mower part:
-
-![](Lasso%20S.A/Lawn%20mower%20part/1.jpg)
-
-
-**2) As a Product Engineer at Renault Argentina I designed and applied the following parts for one project which I was also the Project Manager.**
+**2) Now you are ready to take a look at the document with the code. Here the code is accompanied by a good Storytelling.** :speech_balloon:
 
 Metal fairing part bracket & PROTECTEUR MODULE ALIMENTATION UREEA- Renautl Master project:
 
