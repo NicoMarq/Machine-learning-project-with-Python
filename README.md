@@ -5,7 +5,7 @@
  
  Below you will find some steps for you to better understand my project and explore it:
 
-**1) First, I think that the best thing would be to visit the executive summary which explains the introduction of the project, objectives, problems, resolution and all the necessary information so that anyone, with or without knowledge of Data science, can read it.:**
+**1) First, I think that the best thing would be to visit the Executive Summary which explains the introduction of the project, objectives, problems, resolution and all the necessary information so that anyone, with or without knowledge of Data science, can read it.:**
 
 https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Executive%20presentation%20of%20the%20project.pptx
 
@@ -26,17 +26,17 @@ Please, go to https://github.com/NicoMarq/Machine-learning-project-with-Python/b
 ![](Images/Imagen10.JPG)
 ******************************
 
-**3) As a freelancer I was hired by a group of Mechanical Engineers to design and calculate a retractable tribune to apply it in real life. 
- The difference between the Gabriel and Emanuel rostrum was an automated scissor system.**
+**3) As a valuable addition, a Dashboard of performance metrics of the Machine Learning models was developed, as well as for other important project metrics:.**
 
-Retractable tribune:
+Please, go to https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Heart_disease.pbix:
 
-![](Retractable%20tribune/Emanuel%20Elstein%20client/1.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/2.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/3.jpg)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/4.JPG)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/5.JPG)
-![](Retractable%20tribune/Emanuel%20Elstein%20client/6.JPG)
+\
+\
+![](Images/Imagen5.jpg)
+******************************
+![](Images/Imagen6.jpg)
+******************************
+
 
 
 **4) As a freelancer I am working with a plastic recycling machinery company. We are in the process of designing a machine to make plastic sleepers.**
