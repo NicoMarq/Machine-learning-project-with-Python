@@ -39,22 +39,17 @@ Please, go to https://github.com/NicoMarq/Machine-learning-project-with-Python/b
 
 
 
-**4) As a freelancer I am working with a plastic recycling machinery company. We are in the process of designing a machine to make plastic sleepers.**
+**4) Finally and I think the most important thing: Please, visit the following link where the Machine learning model was implemented in a web page:**
 
-Project:
+(https://pruebaapi-359122.uc.r.appspot.com/)
 
-![](SGM%20-%20Industrial%20Machines/1.jpg)
-![](SGM%20-%20Industrial%20Machines/2.jpg)
+![](Images/Imagen2.jpg)
+******************************
+![](Images/Imagen3.jpg)
 
-**5) As a freelancer I worked with the Balancor company and developed an electronic scale for field grains.**
+******************************
 
-This was a machine with a hopper and built-in load cells to fill bags of corn kernels with an exact weight:
-
-![](Balancor%20S.A/1.jpg)
-![](Balancor%20S.A/2.jpg)
-![](Balancor%20S.A/3.jpg)
-![](Balancor%20S.A/4.jpg)
-![](Balancor%20S.A/5.jpg)
+![](Images/Imagen4.JPG)
 
 
 
