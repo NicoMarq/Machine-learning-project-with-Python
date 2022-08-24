@@ -10,7 +10,7 @@
 https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Executive%20presentation%20of%20the%20project.pptx
 
 ![](Lasso%20S.A/Concret%20mixer/1.jpg)
-
+![](Machine-learning-project-with-Python/blob/main/Images/image1.JPG)
 
 Lawn mower part:
 
