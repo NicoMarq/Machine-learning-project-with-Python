@@ -7,10 +7,10 @@
 
 **1) First, I think that the best thing would be to visit the executive summary which explains the introduction of the project, objectives, problems, resolution and all the necessary information so that anyone, with or without knowledge of Data science, can read it.:**
 
-
+https://github.com/NicoMarq/Machine-learning-project-with-Python/blob/main/Executive%20presentation%20of%20the%20project.pptx
 
 ![](Lasso%20S.A/Concret%20mixer/1.jpg)
-![](Lasso%20S.A/Concret%20mixer/2.jpg)
+
 
 Lawn mower part:
 
